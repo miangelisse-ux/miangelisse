@@ -1,4 +1,4 @@
-# Miangelisse's GitHub Portfolio
+# Miangelisse's Portfolio
 
 Welcome! This repository serves as an introduction to my work, showcasing projects I’ve built in **PowerShell**, **Google Apps Script**, and **other tools** as part of my journey in IT, DevOps, and automation.
 
