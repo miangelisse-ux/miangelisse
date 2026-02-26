@@ -47,7 +47,7 @@ I’m always open to collaboration, feedback, and opportunities!
 
 - **Email:** [miangelisse@gmail.com](mailto:miangelisse@gmail.com)
 - **LinkedIn:** [Miangelisse Encarnacion](https://www.linkedin.com/in/miangelisse-encarnacion/)  
-
+- **Phone:** 📞 (305) 833-6646
 ---
 
 This repository now clearly positions the **SureCatch site as the central hub**, with GitHub repos supporting the portfolio work.
