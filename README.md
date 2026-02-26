@@ -45,7 +45,7 @@ These are a few examples of the solutions I’ve built. Full details, code, and 
 
 I’m always open to collaboration, feedback, and opportunities!  
 
-- **Email:** miangelisse@gmail.com  
+- **Email:** [miangelisse@gmail.com](mailto:miangelisse@gmail.com)
 - **LinkedIn:** [Miangelisse Encarnacion](https://www.linkedin.com/in/miangelisse-encarnacion/)  
 
 ---
