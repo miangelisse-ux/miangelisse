@@ -2,7 +2,6 @@
 
 Welcome! This repository serves as an introduction to my work, showcasing projects I’ve built in **PowerShell**, **Google Apps Script**, and **other tools** as part of my journey in IT, DevOps, and automation.
 
-https://miangelisse-ux.github.io/SureCatch/
 
 ---
 
@@ -44,9 +43,10 @@ Hi! I’m **Miangelisse**, an aspiring **DevOps engineer** and IT professional w
 
 ## How to Explore My Work
 
-1. Browse the repositories linked above.
-2. Check the `README.md` in each project for **setup instructions, code structure, and usage**.
-3. Explore my `src/` folders for the actual scripts and automation logic.
+1. Review the repositories listed above to see my projects in detail.  
+2. Consult each project’s `README.md` for **setup instructions, project structure, and implementation insights**.  
+3. Dive into the `src/` directories to explore the scripts, automation workflows, and solutions I developed.  
+4. Visit my live site to see my CRM Solutions business in action: [SureCatch](https://miangelisse-ux.github.io/SureCatch/)
 
 ---
 
