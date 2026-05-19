@@ -96,7 +96,7 @@ A SaaS-style platform designed for structured content management and workflow-ba
 ### 🧭 SureCatch Portfolio Hub
 My SureCatch platform serves as the central system for accessing my work:
 
-👉 https://miangelisse-ux.github.io/SureCatch/
+👉 https://sure-catch--miangelisse1.replit.app/
 
 It provides:
 - centralized project documentation
