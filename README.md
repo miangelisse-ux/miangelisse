@@ -1,53 +1,141 @@
 # Miangelisse's Portfolio
 
-Welcome! This repository highlights my work in IT, DevOps, and automation. My **SureCatch website** serves as the central hub for exploring my portfolio, projects, and CRM solutions business, while also providing access to all supporting GitHub repositories.
+Welcome! This repository serves as the central hub for my work in **IT systems, cloud engineering, and automation development**.
 
-## About Me
+My SureCatch platform functions as a portfolio hub that organizes my projects, system designs, and workflow automation solutions across multiple domains, including CRM systems, scheduling automation, and data processing pipelines.
 
-Hi! I’m Miangelisse, an aspiring DevOps engineer and IT professional specializing in **automation, workflow optimization, and strategic process improvement**. I build tools and systems that save time, reduce errors, and drive measurable business outcomes.
-
-### Key Skills
-
-- **Automation & Scripting:** PowerShell, Google Apps Script, Python  
-- **Cloud & APIs:** Google Workspace, Azure basics  
-- **Workflow Optimization:** Calendar automation, Excel data aggregation  
-- **Version Control:** Git & GitHub  
-
-## Featured Projects
-
-These are a few examples of the solutions I’ve built. Full details, code, and workflow logic are accessible via my SureCatch hub:
-
-### Clinic Room Scheduling Automation
-**Description:** Automates Google Calendar room scheduling in clinical environments to prevent double-booking and deliver daily summaries to staff.  
-**Tech Stack:** Google Apps Script, Google Calendar API, Google Forms triggers  
-**Highlights:**
-- Multi-room fallback logic  
-- Buffer time enforcement  
-- Conflict detection and resolution  
-- Automated email notifications  
-
-### Annual Rollup Automation
-**Description:** Aggregates financial data from multiple Excel workbooks to generate monthly summary reports and insurance/patient balances.  
-**Tech Stack:** PowerShell, Microsoft Excel COM Interop  
-**Highlights:**
-- Reads and normalizes multiple Excel files  
-- Aggregates insurance and MRN balances  
-- Calculates monthly posted amounts  
-- Outputs ready-to-use Excel reports  
-
-## How to Explore My Work
-
-- **SureCatch Website as Central Hub:** [Visit SureCatch](https://miangelisse-ux.github.io/SureCatch/) to explore my portfolio in one place. The site provides detailed project descriptions, outcomes, and direct links to the supporting GitHub repositories.  
-- **GitHub Repositories:** From the SureCatch hub, you can access all project repositories to review code, setup instructions, and implementation insights.  
-- **Script & Workflow Exploration:** Dive into the `src/` directories in each repo to explore automation logic, scripts, and workflow optimizations I developed.
-
-## Contact
-
-I’m always open to collaboration, feedback, and opportunities!  
-
-- **Email:** [miangelisse@gmail.com](mailto:miangelisse@gmail.com)
-- **LinkedIn:** [Miangelisse Encarnacion](https://www.linkedin.com/in/miangelisse-encarnacion/)  
-- **Phone:** 📞 (305) 833-6646
 ---
 
-This repository now clearly positions the **SureCatch site as the central hub**, with GitHub repos supporting the portfolio work.
+## 🧠 About Me
+
+Hi, I’m Miangelisse — an aspiring **Cloud Engineer / DevOps and IT systems professional** focused on building automation-driven solutions that improve operational efficiency, reduce manual processes, and support scalable system design.
+
+I specialize in designing workflow automation systems, integrating APIs, and developing structured solutions for real-world business operations.
+
+---
+
+## ⚙️ Key Skills
+
+### 🧩 Automation & Scripting
+Python (automation, file handling)  
+PowerShell (workflow automation)  
+Google Apps Script (workflow triggers, scheduling automation)
+
+### ☁️ Cloud & Systems
+AWS (learning path)  
+Microsoft Azure Fundamentals  
+API integration concepts  
+System design fundamentals  
+
+### 🔁 Workflow & Operations Engineering
+Process automation  
+Scheduling systems  
+CRM workflow optimization  
+Data structuring & reporting automation  
+
+### 🧠 Development Tools
+Git & GitHub  
+Excel automation & data processing  
+Google Workspace automation tools  
+
+---
+
+## 🚀 Featured Projects
+
+These projects demonstrate my focus on **system design, automation, and workflow optimization**. Full implementations and supporting documentation are available through my SureCatch portfolio hub.
+
+---
+
+### ⚙️ Clinic Room Scheduling Automation System
+
+**Description:**  
+A workflow automation system designed to manage room scheduling in clinical environments. The system prevents scheduling conflicts, enforces operational constraints, and improves resource allocation efficiency.
+
+**Core System Functions:**
+- Multi-resource scheduling logic (rooms, staff, time blocks)
+- Conflict detection and prevention rules
+- Automated scheduling validation
+- Operational workflow optimization
+
+**Tech Stack:**  
+Google Apps Script | Google Calendar API | Automation logic design
+
+---
+
+### 🧩 Intake Automation System
+
+**Description:**  
+A structured workflow system designed to automate intake processing and data organization. The system simulates real-world data pipelines used in CRM and operational environments.
+
+**Core System Functions:**
+- Structured data intake processing
+- Workflow routing logic (intake → validation → output)
+- Automated data organization and formatting
+- Reduction of manual administrative processing
+
+**Tech Stack:**  
+Python (automation concepts) | Workflow logic design | Data processing systems
+
+---
+
+### 🧠 Kairos Live — SaaS System (In Development)
+
+**Description:**  
+A SaaS-style platform designed for structured content management and workflow-based system operations. Kairos is built with scalability and cloud deployment principles in mind.
+
+**Core Focus:**
+- Modular system architecture
+- User workflow design
+- Scalable data flow structure
+- Cloud deployment readiness (AWS/Azure concepts)
+
+---
+
+## 🌐 How to Explore My Work
+
+### 🧭 SureCatch Portfolio Hub
+My SureCatch platform serves as the central system for accessing my work:
+
+👉 https://miangelisse-ux.github.io/SureCatch/
+
+It provides:
+- centralized project documentation
+- system breakdowns
+- workflow explanations
+- links to supporting GitHub repositories
+
+---
+
+### 📂 GitHub Repositories
+
+Each repository contains supporting logic, scripts, and system components that demonstrate my approach to automation and systems engineering.
+
+Key areas to explore:
+- `/automation` scripts
+- `/workflow` logic systems
+- `/data-processing` tools
+- `/system-design` concepts
+
+---
+
+## 🎯 Career Focus
+
+My long-term focus is:
+
+**Cloud Engineering | DevOps | IT Systems Architecture | Automation Engineering**
+
+I am actively building experience in:
+- cloud-based system design
+- workflow automation
+- Linux + Python systems engineering
+- scalable application architecture
+
+---
+
+## 📫 Contact
+
+I’m always open to collaboration, feedback, and opportunities.
+
+- Email: SURECATCHAUTOMATIONS@GMAIL.COM  
+- LinkedIn: https://www.linkedin.com/company/surecatch
+- Phone: (305) 833-6646
