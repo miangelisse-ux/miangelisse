@@ -27,6 +27,8 @@ I create end-to-end digital systems that power real businesses:
 
 A production cloud SaaS platform for live presentations, scripture projection, and real-time service management.
 
+🔗 Repository: https://github.com/miangelisse-ux/kairoslive
+
 **Includes:**
 - Full SaaS subscription system (monthly/yearly billing)
 - Multi-tenant user architecture
@@ -44,6 +46,8 @@ A production cloud SaaS platform for live presentations, scripture projection, a
 
 A structured automation system that processes intake forms into scheduled appointments.
 
+🔗 Repository: https://github.com/miangelisse-ux/intake-automation
+
 **Includes:**
 - Event-driven workflow pipeline (form → processing → output)
 - Calendar scheduling engine with conflict detection
@@ -59,6 +63,8 @@ A structured automation system that processes intake forms into scheduled appoin
 ### 🏢 Room Scheduling System — Resource Management Platform
 
 A structured booking system for managing shared spaces and preventing conflicts.
+
+🔗 Repository: https://github.com/miangelisse-ux/Resource-Scheduling-Workflow-Orchestration-System
 
 **Includes:**
 - Resource scheduling and availability engine
