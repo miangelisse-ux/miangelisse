@@ -1,8 +1,8 @@
-# Miangelisse
+# Miangelisse Encarnacion Rodriguez
 
-Systems & Cloud Engineer building **SaaS platforms, CRMs, automation systems, and real-time applications**.
+Systems & Cloud Engineer building SaaS platforms, CRMs, automation systems, and real-time applications.
 
-I design end-to-end software systems that simulate real business infrastructure — including workflow automation, scheduling engines, and cloud-ready SaaS architectures.
+Operating under **SureCatch** — a systems-focused brand for workflow automation and SaaS development.
 
 Currently in active development with multiple systems preparing for launch.
 
