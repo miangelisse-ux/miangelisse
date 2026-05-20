@@ -1,100 +1,100 @@
 # Miangelisse Encarnacion Rodriguez
 
-Systems & Cloud Engineer building SaaS platforms, CRMs, automation systems, and real-time applications.
+# Miangelisse
 
-Operating under **SureCatch** — a systems-focused brand for workflow automation and SaaS development.
+Systems Engineer building **cloud-ready SaaS platforms, workflow automation systems, CRMs, and real-time applications**.
 
-Currently in active development with multiple systems preparing for launch.
+Currently developing production-grade systems focused on real-world business automation, scheduling infrastructure, and real-time application design.
+
+Operating under **SureCatch Automations** as a systems and automation engineering brand.
 
 ---
 
-## 🧠 What I Build
+## 🧠 Core Focus
 
-I focus on building structured systems that automate real-world workflows:
+I build systems that simulate real operational infrastructure:
 
 - SaaS platforms (subscription-based applications)
 - CRM and intake workflow systems
 - Scheduling and resource management engines
 - Real-time web applications
-- Business websites and dashboards
-- Backend automation systems
-- Cloud-ready application architectures
+- Business automation systems
+- Cloud-ready backend architectures
 
 ---
 
-## 🚀 Systems in Development
+## 🚀 Systems Portfolio
 
-### 🕊 Kairos Live — SaaS Platform (Pre-Launch)
+### 🕊 Kairos Live — SaaS Platform (In Development)
 https://github.com/miangelisse-ux/kairoslive
 
-A cloud-based SaaS platform for live church presentation and scripture projection with real-time synchronization.
+Real-time worship presentation SaaS platform for live church environments.
 
-- Multi-user SaaS architecture (in development)
-- Subscription system (planned / in progress)
+- Multi-user SaaS architecture (in progress)
+- Subscription-based access system (planned)
 - Real-time display synchronization engine
-- Role-based access system
-- Cloud deployment preparation
-- Live service workflow orchestration
+- Role-based system design
+- Cloud deployment architecture
+- Live presentation workflow system
 
-👉 Currently in active development, preparing for public launch
+👉 Flagship SaaS product in active development
 
 ---
 
 ### ⚙️ Intake Scheduling Automation System
 https://github.com/miangelisse-ux/miangelisse
 
-Event-driven workflow automation system for structured intake and scheduling.
+Event-driven workflow automation system for structured intake scheduling.
 
-- Google Forms → automation pipeline
+- Form-based event trigger pipeline
 - Calendar scheduling with conflict detection
-- CRM-style intake workflow logic
+- CRM-style intake processing logic
 - Automated email notifications
 - Concurrency-safe execution design
-- Business rule validation engine
+- Business rule enforcement engine
 
-👉 Functional automation system, pre-production refinement stage
+👉 Functional automation system simulating real CRM workflows
 
 ---
 
-### 🏢 Room Scheduling & Resource Management System
-(In development / planning stage)
+### 🏢 Room Scheduling System (In Progress)
+Planned / early-stage system for managing shared resources and preventing booking conflicts.
 
-A structured system for managing shared resources and preventing scheduling conflicts.
-
-- Resource availability logic
-- Time-slot allocation system
+- Resource scheduling logic
+- Time-slot allocation system design
 - Conflict detection engine
-- Multi-user scheduling design
+- Multi-user scheduling framework
 
-👉 Designed as an enterprise-style scheduling system (in progress)
+👉 Enterprise-style scheduling system design
 
 ---
 
-## 🧩 System Design Approach
+## 🧩 System Design Pattern
 
-All systems follow a consistent architecture model:
+All systems follow a consistent architecture:
 
 ```
-Input → Validation → Processing → Output → System Feedback
+Input → Validation → Processing → Output → Feedback Loop
 ```
 
-This pattern is applied across:
+Applied across:
 - SaaS applications
-- CRM systems
-- Automation workflows
+- CRMs
+- Automation systems
 - Scheduling engines
-- Real-time applications
+- Real-time systems
 
 ---
 
-## ☁️ Engineering Focus
+## ☁️ Engineering Direction
 
-- Cloud-native system design
-- Event-driven architecture
-- Workflow automation systems
-- Real-time synchronization concepts
-- SaaS architecture patterns
-- Backend system design
+Focused on building toward:
+
+- Cloud Engineering
+- DevOps & Infrastructure Automation
+- SaaS Platform Engineering
+- Backend Systems Architecture
+- Distributed Systems Design
 
 ---
 
@@ -104,32 +104,21 @@ This pattern is applied across:
 - React
 - Google Apps Script
 - Firebase / Supabase concepts
-- Stripe (planned / integrating concepts)
-- WebSocket / real-time system design
-- Cloud architecture fundamentals (AWS/GCP concepts)
-
----
-
-## 🎯 Career Direction
-
-Actively building toward:
-
-- Cloud Engineering
-- DevOps / Infrastructure Automation
-- SaaS Platform Engineering
-- Backend Systems Architecture
-- Distributed Systems Design
+- Stripe (planned integration)
+- WebSocket / real-time systems
+- Cloud architecture fundamentals
 
 ---
 
 ## 📌 What This GitHub Represents
 
-This profile represents a **systems engineering portfolio in active development**, focused on building production-grade architectures before deployment.
+This profile represents a **systems engineering portfolio in active development**, focused on building production-grade architectures before full deployment.
 
-Each project demonstrates real-world system design thinking:
+Each repository demonstrates system-level thinking:
 - Frontend interfaces
 - Backend workflow logic
-- Cloud-ready architecture planning
+- Cloud-ready system design
+- Automation + scheduling infrastructure
 
 ---
 
