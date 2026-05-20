@@ -1,125 +1,100 @@
 # Miangelisse
 
-Full-Stack Systems & Product Engineer building **web applications, SaaS platforms, CRMs, automation systems, and real-time cloud infrastructure**.
+Systems & Cloud Engineer building **SaaS platforms, CRMs, automation systems, and real-time applications**.
 
-I design and build complete digital systems — from UI/UX interfaces and branding layers to backend workflows, automation engines, and cloud deployment architectures.
+I design end-to-end software systems that simulate real business infrastructure — including workflow automation, scheduling engines, and cloud-ready SaaS architectures.
+
+Currently in active development with multiple systems preparing for launch.
 
 ---
 
 ## 🧠 What I Build
 
-I create end-to-end digital systems that power real businesses:
+I focus on building structured systems that automate real-world workflows:
 
 - SaaS platforms (subscription-based applications)
-- CRM systems and internal business tools
-- Workflow automation systems
-- Scheduling and operations platforms
+- CRM and intake workflow systems
+- Scheduling and resource management engines
 - Real-time web applications
-- Business websites and landing systems
-- UI/UX product interfaces
-- Cloud-connected backend systems
+- Business websites and dashboards
+- Backend automation systems
+- Cloud-ready application architectures
 
 ---
 
-## 🚀 Featured Systems
+## 🚀 Systems in Development
 
-### 🕊 Kairos Live — SaaS Worship Platform
+### 🕊 Kairos Live — SaaS Platform (Pre-Launch)
+https://github.com/miangelisse-ux/kairoslive
 
-A production cloud SaaS platform for live presentations, scripture projection, and real-time service management.
+A cloud-based SaaS platform for live church presentation and scripture projection with real-time synchronization.
 
-🔗 Repository: https://github.com/miangelisse-ux/kairoslive
+- Multi-user SaaS architecture (in development)
+- Subscription system (planned / in progress)
+- Real-time display synchronization engine
+- Role-based access system
+- Cloud deployment preparation
+- Live service workflow orchestration
 
-**Includes:**
-- Full SaaS subscription system (monthly/yearly billing)
-- Multi-tenant user architecture
-- Real-time synchronized displays across devices
-- Role-based system (admin, operator, viewer)
-- Cloud-based service orchestration
-- Web-based control panel + live output system
-- Production-ready deployment architecture
-
-**System Type:** Full SaaS + Real-Time Application
+👉 Currently in active development, preparing for public launch
 
 ---
 
-### ⚙️ Intake Automation System — CRM Workflow Engine
+### ⚙️ Intake Scheduling Automation System
+https://github.com/miangelisse-ux/miangelisse
 
-A structured automation system that processes intake forms into scheduled appointments.
+Event-driven workflow automation system for structured intake and scheduling.
 
-🔗 Repository: https://github.com/miangelisse-ux/intake-automation
+- Google Forms → automation pipeline
+- Calendar scheduling with conflict detection
+- CRM-style intake workflow logic
+- Automated email notifications
+- Concurrency-safe execution design
+- Business rule validation engine
 
-**Includes:**
-- Event-driven workflow pipeline (form → processing → output)
-- Calendar scheduling engine with conflict detection
-- Automated CRM-style intake handling
-- Email notification system (client + admin)
-- Business rule enforcement engine
-- Concurrency-safe backend processing
-
-**System Type:** CRM + Workflow Automation Engine
+👉 Functional automation system, pre-production refinement stage
 
 ---
 
-### 🏢 Room Scheduling System — Resource Management Platform
+### 🏢 Room Scheduling & Resource Management System
+(In development / planning stage)
 
-A structured booking system for managing shared spaces and preventing conflicts.
+A structured system for managing shared resources and preventing scheduling conflicts.
 
-🔗 Repository: https://github.com/miangelisse-ux/Resource-Scheduling-Workflow-Orchestration-System
+- Resource availability logic
+- Time-slot allocation system
+- Conflict detection engine
+- Multi-user scheduling design
 
-**Includes:**
-- Resource scheduling and availability engine
-- Time-slot booking system
-- Conflict detection logic
-- Multi-user access control
-- Automated booking lifecycle management
-
-**System Type:** Enterprise Scheduling System
+👉 Designed as an enterprise-style scheduling system (in progress)
 
 ---
 
-### 🌐 Business Websites & UI Systems
+## 🧩 System Design Approach
 
-I also design and build frontend systems including:
-
-- Business landing pages
-- Marketing websites
-- CRM dashboards
-- Admin panels
-- UI systems for SaaS products
-- Conversion-optimized web interfaces
-
-**System Type:** Frontend Product & UI Systems
-
----
-
-## 🧩 Engineering Philosophy
-
-Every system I build follows the same structure:
+All systems follow a consistent architecture model:
 
 ```
-Input → Validation → Processing → Output → Feedback Loop
+Input → Validation → Processing → Output → System Feedback
 ```
 
-This applies across:
-- Web applications
-- CRMs
-- SaaS platforms
-- Automation systems
+This pattern is applied across:
+- SaaS applications
+- CRM systems
+- Automation workflows
 - Scheduling engines
+- Real-time applications
 
 ---
 
-## ☁️ System Capabilities
+## ☁️ Engineering Focus
 
-My projects are designed with:
-
-- Cloud-ready architecture patterns
-- Event-driven workflows
-- Real-time data synchronization
-- Scalable SaaS infrastructure design
-- API-first system thinking
-- Modular backend logic
-- Frontend + backend integration
+- Cloud-native system design
+- Event-driven architecture
+- Workflow automation systems
+- Real-time synchronization concepts
+- SaaS architecture patterns
+- Backend system design
 
 ---
 
@@ -127,46 +102,37 @@ My projects are designed with:
 
 - JavaScript / TypeScript
 - React
-- Node.js concepts
-- Google Apps Script (automation layer)
-- Firebase / Supabase architecture patterns
-- Stripe billing systems
-- WebSocket / real-time systems
-- Cloud deployment concepts (AWS / GCP / serverless)
+- Google Apps Script
+- Firebase / Supabase concepts
+- Stripe (planned / integrating concepts)
+- WebSocket / real-time system design
+- Cloud architecture fundamentals (AWS/GCP concepts)
 
 ---
 
-## 🎯 What I Do (Simple Version)
+## 🎯 Career Direction
 
-I build full digital systems:
+Actively building toward:
 
-- Websites that convert users  
-- SaaS platforms that scale businesses  
-- CRMs that manage operations  
-- Automation systems that replace manual work  
-- Real-time apps that sync across users instantly  
+- Cloud Engineering
+- DevOps / Infrastructure Automation
+- SaaS Platform Engineering
+- Backend Systems Architecture
+- Distributed Systems Design
 
 ---
 
 ## 📌 What This GitHub Represents
 
-This GitHub is a collection of **production-style systems that simulate real business infrastructure** — not isolated projects.
+This profile represents a **systems engineering portfolio in active development**, focused on building production-grade architectures before deployment.
 
-Each repo represents a complete operational system:
-- UI layer (frontend)
-- Logic layer (backend/workflows)
-- Infrastructure layer (cloud-ready design)
+Each project demonstrates real-world system design thinking:
+- Frontend interfaces
+- Backend workflow logic
+- Cloud-ready architecture planning
 
 ---
 
 ## 📫 Contact
 
-Open to collaboration on:
-- SaaS platforms
-- CRM systems
-- Automation tools
-- Business websites
-- Cloud-based applications
-- Real-time systems
-
-📧 Email: SURECATCHAUTOMATIONS@GMAIL.COM
+📧 SURECATCHAUTOMATIONS@GMAIL.COM
