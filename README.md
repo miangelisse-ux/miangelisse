@@ -1,18 +1,14 @@
 # Miangelisse Encarnacion Rodriguez
 
-# Miangelisse
-
 Systems Engineer building **cloud-ready SaaS platforms, workflow automation systems, CRMs, and real-time applications**.
 
-Currently developing production-grade systems focused on real-world business automation, scheduling infrastructure, and real-time application design.
-
-Operating under **SureCatch Automations** as a systems and automation engineering brand.
+Operating under **SureCatch Automations**, a systems and automation engineering brand focused on building production-style software infrastructure.
 
 ---
 
 ## 🧠 Core Focus
 
-I build systems that simulate real operational infrastructure:
+I design systems that replicate real-world operational infrastructure:
 
 - SaaS platforms (subscription-based applications)
 - CRM and intake workflow systems
@@ -28,14 +24,14 @@ I build systems that simulate real operational infrastructure:
 ### 🕊 Kairos Live — SaaS Platform (In Development)
 https://github.com/miangelisse-ux/kairoslive
 
-Real-time worship presentation SaaS platform for live church environments.
+Real-time SaaS platform for live presentation and scripture projection in church environments.
 
 - Multi-user SaaS architecture (in progress)
 - Subscription-based access system (planned)
-- Real-time display synchronization engine
-- Role-based system design
-- Cloud deployment architecture
-- Live presentation workflow system
+- Real-time multi-screen synchronization engine
+- Role-based access system (admin / operator / viewer)
+- Cloud deployment architecture design
+- Live service workflow orchestration
 
 👉 Flagship SaaS product in active development
 
@@ -44,25 +40,26 @@ Real-time worship presentation SaaS platform for live church environments.
 ### ⚙️ Intake Scheduling Automation System
 https://github.com/miangelisse-ux/miangelisse
 
-Event-driven workflow automation system for structured intake scheduling.
+Event-driven workflow automation system for structured intake and appointment scheduling.
 
-- Form-based event trigger pipeline
+- Form-driven event processing pipeline
 - Calendar scheduling with conflict detection
-- CRM-style intake processing logic
-- Automated email notifications
-- Concurrency-safe execution design
-- Business rule enforcement engine
+- CRM-style intake workflow logic
+- Automated email notification system
+- Concurrency-safe execution (locking mechanism)
+- Business rule validation engine
 
-👉 Functional automation system simulating real CRM workflows
+👉 CRM-style workflow automation system
 
 ---
 
 ### 🏢 Room Scheduling System (In Progress)
-Planned / early-stage system for managing shared resources and preventing booking conflicts.
 
-- Resource scheduling logic
-- Time-slot allocation system design
-- Conflict detection engine
+Structured resource scheduling system for managing shared spaces and preventing booking conflicts.
+
+- Resource availability tracking
+- Time-slot allocation engine
+- Conflict detection logic
 - Multi-user scheduling framework
 
 👉 Enterprise-style scheduling system design
@@ -71,18 +68,18 @@ Planned / early-stage system for managing shared resources and preventing bookin
 
 ## 🧩 System Design Pattern
 
-All systems follow a consistent architecture:
+All systems follow a consistent architecture model:
 
 ```
 Input → Validation → Processing → Output → Feedback Loop
 ```
 
 Applied across:
-- SaaS applications
-- CRMs
-- Automation systems
+- SaaS platforms
+- CRM systems
+- Automation workflows
 - Scheduling engines
-- Real-time systems
+- Real-time applications
 
 ---
 
@@ -112,13 +109,15 @@ Focused on building toward:
 
 ## 📌 What This GitHub Represents
 
-This profile represents a **systems engineering portfolio in active development**, focused on building production-grade architectures before full deployment.
+This GitHub represents a **systems engineering portfolio in active development**, focused on building production-grade software systems before full deployment.
 
-Each repository demonstrates system-level thinking:
-- Frontend interfaces
-- Backend workflow logic
-- Cloud-ready system design
-- Automation + scheduling infrastructure
+Each repository demonstrates system-level thinking across:
+
+- Frontend application design
+- Backend workflow orchestration
+- Cloud-ready system architecture
+- Automation and scheduling infrastructure
+- SaaS product design patterns
 
 ---
 
